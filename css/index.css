@@ -1,0 +1,30 @@
+* {font-family: 'Open Sans', sans-serif;}
+/*Selector for a tag*/
+h1 {
+    color:darkturquoise;
+    font-size: 48px;
+  }
+  /*Selector for a class*/
+  .super-cool-class {
+      color: red;
+
+  }
+   /*Selector for an ID*/
+  #some-id {
+      color: green
+      ;
+  }
+  .box{
+      border: 1px solid black;
+      /*padding-left: 16px;
+      padding-top: 16px;
+      padding-bottom: 16px;
+      padding-right: 16px; */
+      padding: -10px;
+      width: 50%;
+      height: 30px;
+      margin-bottom: 65px;
+      display: block;
+      
+
+  }
